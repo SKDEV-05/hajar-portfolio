@@ -1,0 +1,4109 @@
+[
+  {
+    "page": 1,
+    "xref": 45,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 1,
+    "xref": 46,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\46.png",
+    "width": 191,
+    "height": 98,
+    "placements": [
+      [
+        663.0081787109375,
+        36.353538513183594,
+        777.0081787109375,
+        94.8535385131836
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 2,
+    "xref": 51,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -286.68670654296875,
+        1481.0211181640625,
+        883.3131713867188
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 3,
+    "xref": 57,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 3,
+    "xref": 834,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\834.png",
+    "width": 807,
+    "height": 1280,
+    "placements": [
+      [
+        112.4372329711914,
+        33.074066162109375,
+        324.413330078125,
+        369.2548828125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 837,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\837.png",
+    "width": 154,
+    "height": 154,
+    "placements": [
+      [
+        263.6607666015625,
+        383.3927001953125,
+        328.0055847167969,
+        447.7375183105469
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 838,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\838.png",
+    "width": 154,
+    "height": 154,
+    "placements": [
+      [
+        1112.0860595703125,
+        383.3927001953125,
+        1176.430908203125,
+        447.7375183105469
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 839,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\839.png",
+    "width": 154,
+    "height": 154,
+    "placements": [
+      [
+        770.0630493164062,
+        384.8819274902344,
+        834.4078979492188,
+        449.22674560546875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 840,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\840.png",
+    "width": 154,
+    "height": 154,
+    "placements": [
+      [
+        599.3097534179688,
+        384.8819274902344,
+        663.6546020507812,
+        449.22674560546875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 841,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\841.png",
+    "width": 154,
+    "height": 154,
+    "placements": [
+      [
+        434.24267578125,
+        384.8819274902344,
+        498.5874938964844,
+        449.22674560546875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 3,
+    "xref": 843,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\843.png",
+    "width": 140,
+    "height": 140,
+    "placements": [
+      [
+        940.8162841796875,
+        380.3119201660156,
+        1009.90234375,
+        449.39794921875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 4,
+    "xref": 73,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 5,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\halwana\\page-5.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 5,
+    "xref": 79,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-79.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 79
+  },
+  {
+    "page": 5,
+    "xref": 84,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\84.png",
+    "width": 766,
+    "height": 783,
+    "placements": [
+      [
+        465.1430358886719,
+        345.28759765625,
+        656.39306640625,
+        541.03759765625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-84.webp",
+    "width": 766,
+    "height": 783,
+    "xref": 84
+  },
+  {
+    "page": 5,
+    "xref": 85,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\85.png",
+    "width": 407,
+    "height": 624,
+    "placements": [
+      [
+        708.8963623046875,
+        345.28753662109375,
+        822.8963623046875,
+        520.7875366210938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-85.webp",
+    "width": 407,
+    "height": 624,
+    "xref": 85
+  },
+  {
+    "page": 5,
+    "xref": 86,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\86.png",
+    "width": 736,
+    "height": 1308,
+    "placements": [
+      [
+        437.2174072265625,
+        -5.208251953125,
+        1995.7174072265625,
+        871.5418090820312
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-86.webp",
+    "width": 736,
+    "height": 1308,
+    "xref": 86
+  },
+  {
+    "page": 5,
+    "xref": 87,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\87.png",
+    "width": 1023,
+    "height": 416,
+    "placements": [
+      [
+        526.2560424804688,
+        595.5411376953125,
+        904.2560424804688,
+        749.2911376953125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-87.webp",
+    "width": 1023,
+    "height": 416,
+    "xref": 87
+  },
+  {
+    "page": 5,
+    "xref": 88,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\88.png",
+    "width": 767,
+    "height": 783,
+    "placements": [
+      [
+        937.80029296875,
+        345.28753662109375,
+        1133.55029296875,
+        545.5375366210938
+      ],
+      [
+        1323.837158203125,
+        55.72179412841797,
+        1398.087158203125,
+        131.4718017578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-88.webp",
+    "width": 767,
+    "height": 783,
+    "xref": 88
+  },
+  {
+    "page": 5,
+    "xref": 90,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\90.png",
+    "width": 399,
+    "height": 398,
+    "placements": [
+      [
+        830.6796264648438,
+        64.60966491699219,
+        1044.4296875,
+        277.60968017578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-90.webp",
+    "width": 399,
+    "height": 398,
+    "xref": 90
+  },
+  {
+    "page": 5,
+    "xref": 91,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\91.png",
+    "width": 766,
+    "height": 783,
+    "placements": [
+      [
+        1166.33740234375,
+        347.324462890625,
+        1353.83740234375,
+        538.574462890625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-91.webp",
+    "width": 766,
+    "height": 783,
+    "xref": 91
+  },
+  {
+    "page": 5,
+    "xref": 92,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\92.png",
+    "width": 1273,
+    "height": 923,
+    "placements": [
+      [
+        122.64607238769531,
+        555.205322265625,
+        634.8960571289062,
+        927.205322265625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-92.webp",
+    "width": 1273,
+    "height": 923,
+    "xref": 92
+  },
+  {
+    "page": 5,
+    "xref": 1725,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1725.png",
+    "width": 736,
+    "height": 736,
+    "placements": [
+      [
+        479.12286376953125,
+        -271.50860595703125,
+        1398.184326171875,
+        647.5528564453125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 5,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-1725.webp",
+    "width": 736,
+    "height": 736,
+    "xref": 1725
+  },
+  {
+    "page": 6,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\halwana\\page-6.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 6,
+    "xref": 100,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -803.7607421875,
+        -383.2317810058594,
+        1599.2392578125,
+        968.2681884765625
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-100.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 100
+  },
+  {
+    "page": 6,
+    "xref": 103,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\103.png",
+    "width": 466,
+    "height": 465,
+    "placements": [
+      [
+        1107.251708984375,
+        209.53948974609375,
+        1176.3857421875,
+        278.67352294921875
+      ],
+      [
+        1096.8514404296875,
+        628.0485229492188,
+        1154.0823974609375,
+        685.2794189453125
+      ],
+      [
+        220.4533233642578,
+        179.93417358398438,
+        485.95330810546875,
+        444.6841735839844
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-103.webp",
+    "width": 466,
+    "height": 465,
+    "xref": 103
+  },
+  {
+    "page": 6,
+    "xref": 106,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\106.png",
+    "width": 484,
+    "height": 515,
+    "placements": [
+      [
+        666.0238647460938,
+        282.3348388671875,
+        1268.27392578125,
+        923.5847778320312
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-106.webp",
+    "width": 484,
+    "height": 515,
+    "xref": 106
+  },
+  {
+    "page": 6,
+    "xref": 110,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\84.png",
+    "width": 766,
+    "height": 783,
+    "placements": [
+      [
+        272.3483581542969,
+        511.24945068359375,
+        502.598388671875,
+        745.9994506835938
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-110.webp",
+    "width": 766,
+    "height": 783,
+    "xref": 110
+  },
+  {
+    "page": 6,
+    "xref": 931,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\931.png",
+    "width": 408,
+    "height": 612,
+    "placements": [
+      [
+        951.4418334960938,
+        -58.94427490234375,
+        1522.136474609375,
+        796.4200439453125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-931.webp",
+    "width": 408,
+    "height": 612,
+    "xref": 931
+  },
+  {
+    "page": 6,
+    "xref": 103,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\103.png",
+    "width": 466,
+    "height": 465,
+    "placements": [
+      [
+        1107.251708984375,
+        209.53948974609375,
+        1176.3857421875,
+        278.67352294921875
+      ],
+      [
+        1096.8514404296875,
+        628.0485229492188,
+        1154.0823974609375,
+        685.2794189453125
+      ],
+      [
+        220.4533233642578,
+        179.93417358398438,
+        485.95330810546875,
+        444.6841735839844
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-103.webp",
+    "width": 466,
+    "height": 465,
+    "xref": 103
+  },
+  {
+    "page": 6,
+    "xref": 934,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\934.png",
+    "width": 482,
+    "height": 518,
+    "placements": [
+      [
+        1091.45068359375,
+        349.67315673828125,
+        1578.057373046875,
+        872.388427734375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-934.webp",
+    "width": 482,
+    "height": 518,
+    "xref": 934
+  },
+  {
+    "page": 6,
+    "xref": 935,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\935.png",
+    "width": 361,
+    "height": 550,
+    "placements": [
+      [
+        1230.805419921875,
+        442.0184631347656,
+        1253.1583251953125,
+        476.4076232910156
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-935.webp",
+    "width": 361,
+    "height": 550,
+    "xref": 935
+  },
+  {
+    "page": 6,
+    "xref": 936,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\936.png",
+    "width": 201,
+    "height": 199,
+    "placements": [
+      [
+        1290.359619140625,
+        499.41961669921875,
+        1378.9117431640625,
+        587.1119995117188
+      ],
+      [
+        854.9087524414062,
+        166.56809997558594,
+        929.6273193359375,
+        240.061767578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "xref": 103,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\103.png",
+    "width": 466,
+    "height": 465,
+    "placements": [
+      [
+        1107.251708984375,
+        209.53948974609375,
+        1176.3857421875,
+        278.67352294921875
+      ],
+      [
+        1096.8514404296875,
+        628.0485229492188,
+        1154.0823974609375,
+        685.2794189453125
+      ],
+      [
+        220.4533233642578,
+        179.93417358398438,
+        485.95330810546875,
+        444.6841735839844
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-103.webp",
+    "width": 466,
+    "height": 465,
+    "xref": 103
+  },
+  {
+    "page": 6,
+    "xref": 940,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\940.png",
+    "width": 400,
+    "height": 400,
+    "placements": [
+      [
+        1009.0253295898438,
+        535.7938232421875,
+        1268.765625,
+        795.5340576171875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-940.webp",
+    "width": 400,
+    "height": 400,
+    "xref": 940
+  },
+  {
+    "page": 6,
+    "xref": 936,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\936.png",
+    "width": 201,
+    "height": 199,
+    "placements": [
+      [
+        1290.359619140625,
+        499.41961669921875,
+        1378.9117431640625,
+        587.1119995117188
+      ],
+      [
+        854.9087524414062,
+        166.56809997558594,
+        929.6273193359375,
+        240.061767578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "xref": 943,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\943.png",
+    "width": 462,
+    "height": 540,
+    "placements": [
+      [
+        740.1041870117188,
+        47.127410888671875,
+        1043.8780517578125,
+        402.3468017578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 6,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-943.webp",
+    "width": 462,
+    "height": 540,
+    "xref": 943
+  },
+  {
+    "page": 7,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\halwana\\page-7.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 7,
+    "xref": 114,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 7,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-114.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 114
+  },
+  {
+    "page": 7,
+    "xref": 117,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\117.png",
+    "width": 374,
+    "height": 667,
+    "placements": [
+      [
+        982.7018432617188,
+        47.1273193359375,
+        1369.701904296875,
+        737.1273193359375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 7,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-117.webp",
+    "width": 374,
+    "height": 667,
+    "xref": 117
+  },
+  {
+    "page": 7,
+    "xref": 119,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\119.png",
+    "width": 361,
+    "height": 692,
+    "placements": [
+      [
+        154.87615966796875,
+        176.73968505859375,
+        463.87615966796875,
+        768.4896850585938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 7,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-119.webp",
+    "width": 361,
+    "height": 692,
+    "xref": 119
+  },
+  {
+    "page": 7,
+    "xref": 120,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\120.png",
+    "width": 599,
+    "height": 597,
+    "placements": [
+      [
+        579.7171630859375,
+        246.9024658203125,
+        950.2171630859375,
+        616.6524658203125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 7,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\halwana\\image-120.webp",
+    "width": 599,
+    "height": 597,
+    "xref": 120
+  },
+  {
+    "page": 8,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\tikida\\page-8.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 8,
+    "xref": 124,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-124.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 124
+  },
+  {
+    "page": 8,
+    "xref": 129,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\129.png",
+    "width": 583,
+    "height": 532,
+    "placements": [
+      [
+        364.5433654785156,
+        86.271484375,
+        594.7933349609375,
+        296.271484375
+      ],
+      [
+        29.860387802124023,
+        360.2228088378906,
+        183.61038208007812,
+        500.4728088378906
+      ],
+      [
+        766.1752319335938,
+        614.0296020507812,
+        861.837890625,
+        702.0392456054688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-129.webp",
+    "width": 583,
+    "height": 532,
+    "xref": 129
+  },
+  {
+    "page": 8,
+    "xref": 133,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\133.png",
+    "width": 747,
+    "height": 375,
+    "placements": [
+      [
+        703.9979248046875,
+        359.763427734375,
+        960.4979248046875,
+        488.763427734375
+      ],
+      [
+        1057.21728515625,
+        529.4435424804688,
+        1106.5224609375,
+        554.5795288085938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-133.webp",
+    "width": 747,
+    "height": 375,
+    "xref": 133
+  },
+  {
+    "page": 8,
+    "xref": 134,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\134.png",
+    "width": 364,
+    "height": 346,
+    "placements": [
+      [
+        211.1084747314453,
+        364.52191162109375,
+        336.22772216796875,
+        483.85833740234375
+      ],
+      [
+        28.090896606445312,
+        61.07353973388672,
+        81.34089660644531,
+        111.32353973388672
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-134.webp",
+    "width": 364,
+    "height": 346,
+    "xref": 134
+  },
+  {
+    "page": 8,
+    "xref": 1751,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1751.png",
+    "width": 736,
+    "height": 1104,
+    "placements": [
+      [
+        20.18304443359375,
+        -126.23698425292969,
+        939.2445068359375,
+        486.11810302734375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-1751.webp",
+    "width": 736,
+    "height": 1104,
+    "xref": 1751
+  },
+  {
+    "page": 8,
+    "xref": 982,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\982.png",
+    "width": 376,
+    "height": 368,
+    "placements": [
+      [
+        556.6209106445312,
+        369.1412353515625,
+        667.5570068359375,
+        477.50933837890625
+      ],
+      [
+        506.0355224609375,
+        607.4921875,
+        563.7450561523438,
+        664.1329956054688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-982.webp",
+    "width": 376,
+    "height": 368,
+    "xref": 982
+  },
+  {
+    "page": 8,
+    "xref": 986,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\986.png",
+    "width": 389,
+    "height": 405,
+    "placements": [
+      [
+        369.3289489746094,
+        370.1571044921875,
+        510.020751953125,
+        516.5386962890625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-986.webp",
+    "width": 389,
+    "height": 405,
+    "xref": 986
+  },
+  {
+    "page": 8,
+    "xref": 991,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\991.png",
+    "width": 274,
+    "height": 486,
+    "placements": [
+      [
+        196.63967895507812,
+        343.84344482421875,
+        518.900634765625,
+        525.2138061523438
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-991.webp",
+    "width": 274,
+    "height": 486,
+    "xref": 991
+  },
+  {
+    "page": 8,
+    "xref": 134,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\134.png",
+    "width": 364,
+    "height": 346,
+    "placements": [
+      [
+        211.1084747314453,
+        364.52191162109375,
+        336.22772216796875,
+        483.85833740234375
+      ],
+      [
+        28.090896606445312,
+        61.07353973388672,
+        81.34089660644531,
+        111.32353973388672
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-134.webp",
+    "width": 364,
+    "height": 346,
+    "xref": 134
+  },
+  {
+    "page": 8,
+    "xref": 133,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\133.png",
+    "width": 747,
+    "height": 375,
+    "placements": [
+      [
+        703.9979248046875,
+        359.763427734375,
+        960.4979248046875,
+        488.763427734375
+      ],
+      [
+        1057.21728515625,
+        529.4435424804688,
+        1106.5224609375,
+        554.5795288085938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-133.webp",
+    "width": 747,
+    "height": 375,
+    "xref": 133
+  },
+  {
+    "page": 8,
+    "xref": 1011,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\931.png",
+    "width": 408,
+    "height": 612,
+    "placements": [
+      [
+        960.7233276367188,
+        375.0037841796875,
+        1319.394775390625,
+        913.4942626953125
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-1011.webp",
+    "width": 408,
+    "height": 612,
+    "xref": 1011
+  },
+  {
+    "page": 8,
+    "xref": 982,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\982.png",
+    "width": 376,
+    "height": 368,
+    "placements": [
+      [
+        556.6209106445312,
+        369.1412353515625,
+        667.5570068359375,
+        477.50933837890625
+      ],
+      [
+        506.0355224609375,
+        607.4921875,
+        563.7450561523438,
+        664.1329956054688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-982.webp",
+    "width": 376,
+    "height": 368,
+    "xref": 982
+  },
+  {
+    "page": 8,
+    "xref": 1014,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1014.png",
+    "width": 416,
+    "height": 486,
+    "placements": [
+      [
+        402.28717041015625,
+        504.4801025390625,
+        667.323486328125,
+        814.401611328125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-1014.webp",
+    "width": 416,
+    "height": 486,
+    "xref": 1014
+  },
+  {
+    "page": 8,
+    "xref": 1017,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1017.png",
+    "width": 500,
+    "height": 500,
+    "placements": [
+      [
+        670.7467651367188,
+        509.1722412109375,
+        971.7653198242188,
+        810.1907958984375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-1017.webp",
+    "width": 500,
+    "height": 500,
+    "xref": 1017
+  },
+  {
+    "page": 8,
+    "xref": 129,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\129.png",
+    "width": 583,
+    "height": 532,
+    "placements": [
+      [
+        364.5433654785156,
+        86.271484375,
+        594.7933349609375,
+        296.271484375
+      ],
+      [
+        29.860387802124023,
+        360.2228088378906,
+        183.61038208007812,
+        500.4728088378906
+      ],
+      [
+        766.1752319335938,
+        614.0296020507812,
+        861.837890625,
+        702.0392456054688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 8,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-129.webp",
+    "width": 583,
+    "height": 532,
+    "xref": 129
+  },
+  {
+    "page": 9,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\tikida\\page-9.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 9,
+    "xref": 144,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -2496.0,
+        -1389.34716796875,
+        1440.0,
+        824.65283203125
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 9,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-144.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 144
+  },
+  {
+    "page": 9,
+    "xref": 147,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\147.png",
+    "width": 590,
+    "height": 888,
+    "placements": [
+      [
+        909.1093139648438,
+        307.34552001953125,
+        1114.609375,
+        617.0955200195312
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 9,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-147.webp",
+    "width": 590,
+    "height": 888,
+    "xref": 147
+  },
+  {
+    "page": 9,
+    "xref": 148,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\148.png",
+    "width": 360,
+    "height": 407,
+    "placements": [
+      [
+        748.4776611328125,
+        282.0772705078125,
+        869.2276611328125,
+        418.5772705078125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 9,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-148.webp",
+    "width": 360,
+    "height": 407,
+    "xref": 148
+  },
+  {
+    "page": 9,
+    "xref": 149,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\149.png",
+    "width": 385,
+    "height": 432,
+    "placements": [
+      [
+        600.5960083007812,
+        427.6397705078125,
+        719.8460083007812,
+        561.8897705078125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 9,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-149.webp",
+    "width": 385,
+    "height": 432,
+    "xref": 149
+  },
+  {
+    "page": 9,
+    "xref": 150,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\150.png",
+    "width": 579,
+    "height": 891,
+    "placements": [
+      [
+        311.5523681640625,
+        233.40252685546875,
+        560.5523681640625,
+        616.6525268554688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 9,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\tikida\\image-150.webp",
+    "width": 579,
+    "height": 891,
+    "xref": 150
+  },
+  {
+    "page": 10,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\milkyway\\page-10.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 10,
+    "xref": 157,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\157.png",
+    "width": 1543,
+    "height": 441,
+    "placements": [
+      [
+        965.4830322265625,
+        368.39837646484375,
+        1501.7330322265625,
+        521.3983764648438
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-157.webp",
+    "width": 1543,
+    "height": 441,
+    "xref": 157
+  },
+  {
+    "page": 10,
+    "xref": 159,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\159.png",
+    "width": 1546,
+    "height": 440,
+    "placements": [
+      [
+        965.4830322265625,
+        616.5697021484375,
+        1501.7330322265625,
+        769.5697021484375
+      ],
+      [
+        965.4830322265625,
+        120.83163452148438,
+        1501.7330322265625,
+        273.8316345214844
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-159.webp",
+    "width": 1546,
+    "height": 440,
+    "xref": 159
+  },
+  {
+    "page": 10,
+    "xref": 160,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\160.png",
+    "width": 1363,
+    "height": 587,
+    "placements": [
+      [
+        427.3919372558594,
+        312.9884338378906,
+        1079.8919677734375,
+        593.4884643554688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-160.webp",
+    "width": 1363,
+    "height": 587,
+    "xref": 160
+  },
+  {
+    "page": 10,
+    "xref": 161,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -1188.2403564453125,
+        -313.7246398925781,
+        981.5096435546875,
+        906.525390625
+      ],
+      [
+        17.15966796875,
+        -418.28106689453125,
+        2243.90966796875,
+        834.2190551757812
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-161.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 161
+  },
+  {
+    "page": 10,
+    "xref": 163,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\163.png",
+    "width": 1680,
+    "height": 658,
+    "placements": [
+      [
+        545.9027709960938,
+        567.0458984375,
+        1035.65283203125,
+        759.0458984375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-163.webp",
+    "width": 1680,
+    "height": 658,
+    "xref": 163
+  },
+  {
+    "page": 10,
+    "xref": 164,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\164.png",
+    "width": 1690,
+    "height": 773,
+    "placements": [
+      [
+        540.6527709960938,
+        81.48912048339844,
+        1046.90283203125,
+        313.2391052246094
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 10,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-164.webp",
+    "width": 1690,
+    "height": 773,
+    "xref": 164
+  },
+  {
+    "page": 11,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\milkyway\\page-11.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 11,
+    "xref": 171,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-171.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 171
+  },
+  {
+    "page": 11,
+    "xref": 174,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\174.png",
+    "width": 798,
+    "height": 313,
+    "placements": [
+      [
+        -370.972412109375,
+        213.282958984375,
+        1262.5277099609375,
+        853.782958984375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-174.webp",
+    "width": 798,
+    "height": 313,
+    "xref": 174
+  },
+  {
+    "page": 11,
+    "xref": 176,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\176.png",
+    "width": 450,
+    "height": 450,
+    "placements": [
+      [
+        524.999267578125,
+        51.432220458984375,
+        821.249267578125,
+        347.6822204589844
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-176.webp",
+    "width": 450,
+    "height": 450,
+    "xref": 176
+  },
+  {
+    "page": 11,
+    "xref": 1095,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\931.png",
+    "width": 408,
+    "height": 612,
+    "placements": [
+      [
+        834.48388671875,
+        -24.0628662109375,
+        1406.544921875,
+        834.7997436523438
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1095.webp",
+    "width": 408,
+    "height": 612,
+    "xref": 1095
+  },
+  {
+    "page": 11,
+    "xref": 1860,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1860.png",
+    "width": 1127,
+    "height": 515,
+    "placements": [
+      [
+        1149.667236328125,
+        225.0633544921875,
+        1317.7391357421875,
+        302.1605224609375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1860.webp",
+    "width": 1127,
+    "height": 515,
+    "xref": 1860
+  },
+  {
+    "page": 11,
+    "xref": 1099,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1099.png",
+    "width": 416,
+    "height": 486,
+    "placements": [
+      [
+        1080.4324951171875,
+        447.8564147949219,
+        1346.52587890625,
+        758.5520629882812
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1099.webp",
+    "width": 416,
+    "height": 486,
+    "xref": 1099
+  },
+  {
+    "page": 11,
+    "xref": 1865,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1865.png",
+    "width": 682,
+    "height": 294,
+    "placements": [
+      [
+        1155.502197265625,
+        547.2824096679688,
+        1304.514404296875,
+        611.1448364257812
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1865.webp",
+    "width": 682,
+    "height": 294,
+    "xref": 1865
+  },
+  {
+    "page": 11,
+    "xref": 1104,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1104.png",
+    "width": 450,
+    "height": 450,
+    "placements": [
+      [
+        878.2416381835938,
+        323.8719482421875,
+        1157.936279296875,
+        603.5665283203125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1104.webp",
+    "width": 450,
+    "height": 450,
+    "xref": 1104
+  },
+  {
+    "page": 11,
+    "xref": 1870,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1870.png",
+    "width": 1029,
+    "height": 294,
+    "placements": [
+      [
+        956.1565551757812,
+        441.3211669921875,
+        1105.992919921875,
+        483.9412841796875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 11,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-1870.webp",
+    "width": 1029,
+    "height": 294,
+    "xref": 1870
+  },
+  {
+    "page": 12,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\milkyway\\page-12.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 12,
+    "xref": 183,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 12,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-183.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 183
+  },
+  {
+    "page": 12,
+    "xref": 186,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\186.png",
+    "width": 623,
+    "height": 401,
+    "placements": [
+      [
+        69.9457015991211,
+        183.2298583984375,
+        823.6957397460938,
+        668.4798583984375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 12,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-186.webp",
+    "width": 623,
+    "height": 401,
+    "xref": 186
+  },
+  {
+    "page": 12,
+    "xref": 187,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\187.png",
+    "width": 623,
+    "height": 401,
+    "placements": [
+      [
+        554.8797607421875,
+        81.0,
+        1586.1297607421875,
+        744.75
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 12,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\milkyway\\image-187.webp",
+    "width": 623,
+    "height": 401,
+    "xref": 187
+  },
+  {
+    "page": 13,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\jumper\\page-13.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 13,
+    "xref": 194,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\194.png",
+    "width": 944,
+    "height": 498,
+    "placements": [
+      [
+        495.3063049316406,
+        454.17523193359375,
+        934.0562744140625,
+        685.9252319335938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 13,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\jumper\\image-194.webp",
+    "width": 944,
+    "height": 498,
+    "xref": 194
+  },
+  {
+    "page": 13,
+    "xref": 195,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\195.png",
+    "width": 707,
+    "height": 373,
+    "placements": [
+      [
+        116.66605377197266,
+        569.9317626953125,
+        449.6660461425781,
+        745.4317626953125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 13,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\jumper\\image-195.webp",
+    "width": 707,
+    "height": 373,
+    "xref": 195
+  },
+  {
+    "page": 13,
+    "xref": 196,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\196.png",
+    "width": 777,
+    "height": 396,
+    "placements": [
+      [
+        1022.6936645507812,
+        569.9317626953125,
+        1366.943603515625,
+        745.4317626953125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 13,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\jumper\\image-196.webp",
+    "width": 777,
+    "height": 396,
+    "xref": 196
+  },
+  {
+    "page": 13,
+    "xref": 197,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\197.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -718.815185546875,
+        -675.6488037109375,
+        1507.934814453125,
+        576.851318359375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 13,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\jumper\\image-197.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 197
+  },
+  {
+    "page": 13,
+    "xref": 198,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\198.png",
+    "width": 500,
+    "height": 500,
+    "placements": [
+      [
+        924.49560546875,
+        6.813629150390625,
+        1406.74560546875,
+        489.06365966796875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 13,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\jumper\\image-198.webp",
+    "width": 500,
+    "height": 500,
+    "xref": 198
+  },
+  {
+    "page": 14,
+    "xref": 204,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 15,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\graphora\\page-15.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 15,
+    "xref": 211,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 15,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-211.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 211
+  },
+  {
+    "page": 15,
+    "xref": 213,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\213.png",
+    "width": 214,
+    "height": 62,
+    "placements": [
+      [
+        566.9481201171875,
+        671.3932495117188,
+        757.4481201171875,
+        726.1432495117188
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 15,
+    "xref": 216,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\216.png",
+    "width": 498,
+    "height": 501,
+    "placements": [
+      [
+        944.2578125,
+        171.3624267578125,
+        1380.0078125,
+        609.3624267578125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 15,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-216.webp",
+    "width": 498,
+    "height": 501,
+    "xref": 216
+  },
+  {
+    "page": 15,
+    "xref": 217,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\217.png",
+    "width": 496,
+    "height": 504,
+    "placements": [
+      [
+        527.3982543945312,
+        163.29605102539062,
+        978.148193359375,
+        621.5460815429688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 15,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-217.webp",
+    "width": 496,
+    "height": 504,
+    "xref": 217
+  },
+  {
+    "page": 15,
+    "xref": 1168,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1168.png",
+    "width": 214,
+    "height": 62,
+    "placements": [
+      [
+        254.2928009033203,
+        673.2991943359375,
+        441.9749755859375,
+        727.5765991210938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\graphora\\page-16.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 16,
+    "xref": 224,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-224.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 224
+  },
+  {
+    "page": 16,
+    "xref": 225,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\225.png",
+    "width": 674,
+    "height": 1272,
+    "placements": [
+      [
+        64.36587524414062,
+        154.72601318359375,
+        329.8658752441406,
+        654.9760131835938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-225.webp",
+    "width": 674,
+    "height": 1272,
+    "xref": 225
+  },
+  {
+    "page": 16,
+    "xref": 226,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\226.png",
+    "width": 674,
+    "height": 1272,
+    "placements": [
+      [
+        594.9466552734375,
+        167.0791015625,
+        860.4466552734375,
+        667.3291015625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-226.webp",
+    "width": 674,
+    "height": 1272,
+    "xref": 226
+  },
+  {
+    "page": 16,
+    "xref": 227,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\227.png",
+    "width": 674,
+    "height": 1272,
+    "placements": [
+      [
+        329.65625,
+        258.719970703125,
+        595.15625,
+        758.969970703125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-227.webp",
+    "width": 674,
+    "height": 1272,
+    "xref": 227
+  },
+  {
+    "page": 16,
+    "xref": 228,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\228.png",
+    "width": 674,
+    "height": 1272,
+    "placements": [
+      [
+        1125.5274658203125,
+        167.0791015625,
+        1391.0274658203125,
+        667.3291015625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-228.webp",
+    "width": 674,
+    "height": 1272,
+    "xref": 228
+  },
+  {
+    "page": 16,
+    "xref": 229,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\229.png",
+    "width": 674,
+    "height": 1272,
+    "placements": [
+      [
+        860.2369995117188,
+        258.719970703125,
+        1125.737060546875,
+        758.969970703125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 16,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\graphora\\image-229.webp",
+    "width": 674,
+    "height": 1272,
+    "xref": 229
+  },
+  {
+    "page": 17,
+    "xref": 236,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 18,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\sombres-recits\\page-18.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 18,
+    "xref": 240,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-240.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 240
+  },
+  {
+    "page": 18,
+    "xref": 243,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\243.png",
+    "width": 391,
+    "height": 555,
+    "placements": [
+      [
+        556.9004516601562,
+        143.10092163085938,
+        843.4004516601562,
+        549.6008911132812
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-243.webp",
+    "width": 391,
+    "height": 555,
+    "xref": 243
+  },
+  {
+    "page": 18,
+    "xref": 244,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\244.png",
+    "width": 352,
+    "height": 497,
+    "placements": [
+      [
+        1125.289794921875,
+        428.8060607910156,
+        1359.289794921875,
+        758.8060302734375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-244.webp",
+    "width": 352,
+    "height": 497,
+    "xref": 244
+  },
+  {
+    "page": 18,
+    "xref": 245,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\245.png",
+    "width": 352,
+    "height": 495,
+    "placements": [
+      [
+        1125.0662841796875,
+        81.0,
+        1359.0662841796875,
+        410.2500305175781
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-245.webp",
+    "width": 352,
+    "height": 495,
+    "xref": 245
+  },
+  {
+    "page": 18,
+    "xref": 246,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\246.png",
+    "width": 348,
+    "height": 497,
+    "placements": [
+      [
+        868.7667846679688,
+        428.8060607910156,
+        1099.766845703125,
+        758.8060302734375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-246.webp",
+    "width": 348,
+    "height": 497,
+    "xref": 246
+  },
+  {
+    "page": 18,
+    "xref": 247,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\247.png",
+    "width": 350,
+    "height": 498,
+    "placements": [
+      [
+        868.7667846679688,
+        81.0,
+        1099.766845703125,
+        410.25
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 18,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\sombres-recits\\image-247.webp",
+    "width": 350,
+    "height": 498,
+    "xref": 247
+  },
+  {
+    "page": 19,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\studio-vision\\page-19.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 19,
+    "xref": 252,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -2496.0,
+        -1389.34716796875,
+        1440.0,
+        824.65283203125
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 19,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\studio-vision\\image-252.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 252
+  },
+  {
+    "page": 19,
+    "xref": 253,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\253.png",
+    "width": 496,
+    "height": 700,
+    "placements": [
+      [
+        176.29830932617188,
+        81.0,
+        650.2982788085938,
+        750.0
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 19,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\studio-vision\\image-253.webp",
+    "width": 496,
+    "height": 700,
+    "xref": 253
+  },
+  {
+    "page": 20,
+    "xref": 260,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -281.6241149902344,
+        1481.0211181640625,
+        888.375732421875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 21,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\cartoon-character\\page-21.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 21,
+    "xref": 268,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -276.5615234375,
+        1481.0211181640625,
+        893.4383544921875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 21,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-268.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 268
+  },
+  {
+    "page": 21,
+    "xref": 269,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\269.png",
+    "width": 415,
+    "height": 601,
+    "placements": [
+      [
+        343.66497802734375,
+        -4.307861328125,
+        922.6649780273438,
+        834.192138671875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 21,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-269.webp",
+    "width": 415,
+    "height": 601,
+    "xref": 269
+  },
+  {
+    "page": 21,
+    "xref": 270,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\270.png",
+    "width": 484,
+    "height": 516,
+    "placements": [
+      [
+        947.6763916015625,
+        51.43218994140625,
+        1692.4263916015625,
+        845.68212890625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 21,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-270.webp",
+    "width": 484,
+    "height": 516,
+    "xref": 270
+  },
+  {
+    "page": 21,
+    "xref": 271,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\271.png",
+    "width": 504,
+    "height": 495,
+    "placements": [
+      [
+        46.37599182128906,
+        364.4051513671875,
+        500.8759765625,
+        810.6551513671875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 21,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-271.webp",
+    "width": 504,
+    "height": 495,
+    "xref": 271
+  },
+  {
+    "page": 21,
+    "xref": 272,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\272.png",
+    "width": 416,
+    "height": 599,
+    "placements": [
+      [
+        805.4490356445312,
+        321.7004699707031,
+        1144.448974609375,
+        809.950439453125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 21,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-272.webp",
+    "width": 416,
+    "height": 599,
+    "xref": 272
+  },
+  {
+    "page": 22,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\cartoon-character\\page-22.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 22,
+    "xref": 279,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -286.68670654296875,
+        1481.0211181640625,
+        883.3131713867188
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 22,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-279.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 279
+  },
+  {
+    "page": 22,
+    "xref": 280,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\280.png",
+    "width": 1152,
+    "height": 601,
+    "placements": [
+      [
+        64.92581176757812,
+        58.851318359375,
+        728.6759033203125,
+        405.351318359375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 22,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-280.webp",
+    "width": 1152,
+    "height": 601,
+    "xref": 280
+  },
+  {
+    "page": 22,
+    "xref": 281,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\281.png",
+    "width": 1132,
+    "height": 616,
+    "placements": [
+      [
+        69.53240203857422,
+        413.6102294921875,
+        741.532470703125,
+        778.8602294921875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 22,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-281.webp",
+    "width": 1132,
+    "height": 616,
+    "xref": 281
+  },
+  {
+    "page": 22,
+    "xref": 284,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\270.png",
+    "width": 484,
+    "height": 516,
+    "placements": [
+      [
+        743.1426391601562,
+        74.5299072265625,
+        1401.642578125,
+        776.5299072265625
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 22,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\cartoon-character\\image-284.webp",
+    "width": 484,
+    "height": 516,
+    "xref": 284
+  },
+  {
+    "page": 23,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\winter-cabin\\page-23.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 23,
+    "xref": 289,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\289.png",
+    "width": 1387,
+    "height": 807,
+    "placements": [
+      [
+        1.7053025658242404e-13,
+        -54.09893798828125,
+        1657.5,
+        908.9010620117188
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 23,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-cabin\\image-289.webp",
+    "width": 1387,
+    "height": 807,
+    "xref": 289
+  },
+  {
+    "page": 23,
+    "xref": 290,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\290.png",
+    "width": 1149,
+    "height": 600,
+    "placements": [
+      [
+        755.002685546875,
+        432.24310302734375,
+        1373.002685546875,
+        754.7431030273438
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 23,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-cabin\\image-290.webp",
+    "width": 1149,
+    "height": 600,
+    "xref": 290
+  },
+  {
+    "page": 23,
+    "xref": 291,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\291.png",
+    "width": 1120,
+    "height": 605,
+    "placements": [
+      [
+        755.002685546875,
+        72.12112426757812,
+        1373.002685546875,
+        405.8711242675781
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 23,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-cabin\\image-291.webp",
+    "width": 1120,
+    "height": 605,
+    "xref": 291
+  },
+  {
+    "page": 23,
+    "xref": 1283,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1283.png",
+    "width": 371,
+    "height": 431,
+    "placements": [
+      [
+        460.89093017578125,
+        494.79608154296875,
+        679.4141845703125,
+        748.6049194335938
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 23,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-cabin\\image-1283.webp",
+    "width": 371,
+    "height": 431,
+    "xref": 1283
+  },
+  {
+    "page": 23,
+    "xref": 1287,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1287.png",
+    "width": 416,
+    "height": 385,
+    "placements": [
+      [
+        98.29478454589844,
+        496.1632385253906,
+        361.91180419921875,
+        740.3690185546875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 23,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-cabin\\image-1287.webp",
+    "width": 416,
+    "height": 385,
+    "xref": 1287
+  },
+  {
+    "page": 24,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\winter-animation\\page-24.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 24,
+    "xref": 304,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\304.png",
+    "width": 1152,
+    "height": 601,
+    "placements": [
+      [
+        693.9625244140625,
+        427.074951171875,
+        1352.4625244140625,
+        770.574951171875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 24,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-304.webp",
+    "width": 1152,
+    "height": 601,
+    "xref": 304
+  },
+  {
+    "page": 24,
+    "xref": 305,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\305.png",
+    "width": 1152,
+    "height": 599,
+    "placements": [
+      [
+        49.182212829589844,
+        60.432220458984375,
+        699.4322509765625,
+        397.9322509765625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 24,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-305.webp",
+    "width": 1152,
+    "height": 599,
+    "xref": 305
+  },
+  {
+    "page": 24,
+    "xref": 1304,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\1304.png",
+    "width": 1920,
+    "height": 1080,
+    "placements": [
+      [
+        -202.4556121826172,
+        -60.73248291015625,
+        1464.04443359375,
+        876.7675170898438
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 24,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-1304.webp",
+    "width": 1800,
+    "height": 1013,
+    "xref": 1304
+  },
+  {
+    "page": 25,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\winter-animation\\page-25.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 25,
+    "xref": 310,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\310.png",
+    "width": 1249,
+    "height": 727,
+    "placements": [
+      [
+        -21.569467544555664,
+        0.0,
+        780.9305419921875,
+        466.5
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 25,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-310.webp",
+    "width": 1249,
+    "height": 727,
+    "xref": 310
+  },
+  {
+    "page": 25,
+    "xref": 311,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\311.png",
+    "width": 1534,
+    "height": 864,
+    "placements": [
+      [
+        531.9757690429688,
+        -61.035400390625,
+        1440.225830078125,
+        451.214599609375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 25,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-311.webp",
+    "width": 1534,
+    "height": 864,
+    "xref": 311
+  },
+  {
+    "page": 25,
+    "xref": 312,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\312.png",
+    "width": 1344,
+    "height": 756,
+    "placements": [
+      [
+        -46.461669921875,
+        391.1825866699219,
+        720.0383911132812,
+        822.4326171875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 25,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-312.webp",
+    "width": 1344,
+    "height": 756,
+    "xref": 312
+  },
+  {
+    "page": 25,
+    "xref": 313,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\313.png",
+    "width": 1344,
+    "height": 754,
+    "placements": [
+      [
+        720.0,
+        403.4999694824219,
+        1443.75,
+        810.0
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 25,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\winter-animation\\image-313.webp",
+    "width": 1344,
+    "height": 754,
+    "xref": 313
+  },
+  {
+    "page": 26,
+    "xref": 320,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -586.73486328125,
+        -264.56158447265625,
+        1493.01513671875,
+        905.4382934570312
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 27,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\intruder\\page-27.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 27,
+    "xref": 324,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -2496.0,
+        -1389.34716796875,
+        1440.0,
+        824.65283203125
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 27,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-324.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 324
+  },
+  {
+    "page": 27,
+    "xref": 325,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\325.png",
+    "width": 1152,
+    "height": 647,
+    "placements": [
+      [
+        718.1830444335938,
+        37.649200439453125,
+        1388.68310546875,
+        414.14923095703125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 27,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-325.webp",
+    "width": 1152,
+    "height": 647,
+    "xref": 325
+  },
+  {
+    "page": 27,
+    "xref": 326,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\326.png",
+    "width": 1200,
+    "height": 676,
+    "placements": [
+      [
+        904.8660278320312,
+        458.71783447265625,
+        1450.865966796875,
+        765.4678344726562
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 27,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-326.webp",
+    "width": 1200,
+    "height": 676,
+    "xref": 326
+  },
+  {
+    "page": 27,
+    "xref": 327,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\327.png",
+    "width": 553,
+    "height": 750,
+    "placements": [
+      [
+        80.99810791015625,
+        453.0099792480469,
+        497.24810791015625,
+        759.7599487304688
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 27,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-327.webp",
+    "width": 553,
+    "height": 750,
+    "xref": 327
+  },
+  {
+    "page": 28,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\intruder\\page-28.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 28,
+    "xref": 334,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\334.png",
+    "width": 1152,
+    "height": 648,
+    "placements": [
+      [
+        720.0,
+        0.0,
+        1440.0,
+        404.9999694824219
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 28,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-334.webp",
+    "width": 1152,
+    "height": 648,
+    "xref": 334
+  },
+  {
+    "page": 28,
+    "xref": 335,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\335.png",
+    "width": 1344,
+    "height": 754,
+    "placements": [
+      [
+        720.0,
+        405.0,
+        1440.0,
+        809.25
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 28,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-335.webp",
+    "width": 1344,
+    "height": 754,
+    "xref": 335
+  },
+  {
+    "page": 28,
+    "xref": 336,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\336.png",
+    "width": 1152,
+    "height": 644,
+    "placements": [
+      [
+        2.25,
+        0.0,
+        722.2499389648438,
+        402.0
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 28,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-336.webp",
+    "width": 1152,
+    "height": 644,
+    "xref": 336
+  },
+  {
+    "page": 28,
+    "xref": 337,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\337.png",
+    "width": 1342,
+    "height": 754,
+    "placements": [
+      [
+        -13.865028381347656,
+        393.5633850097656,
+        722.635009765625,
+        808.3133544921875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 28,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\intruder\\image-337.webp",
+    "width": 1342,
+    "height": 754,
+    "xref": 337
+  },
+  {
+    "page": 29,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\safi-pottery\\page-29.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 29,
+    "xref": 344,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -2240.2626953125,
+        -1259.311767578125,
+        1526.9873046875,
+        859.438232421875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 29,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-344.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 344
+  },
+  {
+    "page": 29,
+    "xref": 346,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\346.png",
+    "width": 960,
+    "height": 538,
+    "placements": [
+      [
+        94.10739135742188,
+        453.9776611328125,
+        532.107421875,
+        699.2276611328125
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 29,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-346.webp",
+    "width": 960,
+    "height": 538,
+    "xref": 346
+  },
+  {
+    "page": 29,
+    "xref": 347,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\347.png",
+    "width": 960,
+    "height": 538,
+    "placements": [
+      [
+        893.5137329101562,
+        466.174072265625,
+        1367.5137939453125,
+        731.674072265625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 29,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-347.webp",
+    "width": 960,
+    "height": 538,
+    "xref": 347
+  },
+  {
+    "page": 29,
+    "xref": 348,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\348.png",
+    "width": 959,
+    "height": 540,
+    "placements": [
+      [
+        519.2504272460938,
+        466.174072265625,
+        1003.75048828125,
+        738.424072265625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 29,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-348.webp",
+    "width": 959,
+    "height": 540,
+    "xref": 348
+  },
+  {
+    "page": 30,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\safi-pottery\\page-30.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 30,
+    "xref": 355,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\355.png",
+    "width": 1152,
+    "height": 648,
+    "placements": [
+      [
+        -1.2789769243681803e-13,
+        404.1000061035156,
+        719.9999389648438,
+        809.0999755859375
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 30,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-355.webp",
+    "width": 1152,
+    "height": 648,
+    "xref": 355
+  },
+  {
+    "page": 30,
+    "xref": 356,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\356.png",
+    "width": 1344,
+    "height": 756,
+    "placements": [
+      [
+        720.0,
+        387.2244873046875,
+        1515.75,
+        834.9744873046875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 30,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-356.webp",
+    "width": 1344,
+    "height": 756,
+    "xref": 356
+  },
+  {
+    "page": 30,
+    "xref": 358,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\358.png",
+    "width": 1344,
+    "height": 754,
+    "placements": [
+      [
+        720.0,
+        0.0,
+        1440.0,
+        404.25
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 30,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-358.webp",
+    "width": 1344,
+    "height": 754,
+    "xref": 358
+  },
+  {
+    "page": 30,
+    "xref": 359,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\359.png",
+    "width": 1344,
+    "height": 756,
+    "placements": [
+      [
+        -8.526512829121202e-14,
+        1.649993896484375,
+        760.5,
+        429.14996337890625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 30,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\safi-pottery\\image-359.webp",
+    "width": 1344,
+    "height": 756,
+    "xref": 359
+  },
+  {
+    "page": 31,
+    "xref": 366,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -586.7288818359375,
+        -286.68670654296875,
+        1493.0211181640625,
+        883.3131713867188
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 32,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\posters\\page-32.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 32,
+    "xref": 370,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.7288818359375,
+        -273.1859436035156,
+        1481.0211181640625,
+        896.81396484375
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 32,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\posters\\image-370.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 370
+  },
+  {
+    "page": 32,
+    "xref": 371,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\371.png",
+    "width": 522,
+    "height": 780,
+    "placements": [
+      [
+        118.84700012207031,
+        149.68325805664062,
+        440.59698486328125,
+        629.6832885742188
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 32,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\posters\\image-371.webp",
+    "width": 522,
+    "height": 780,
+    "xref": 371
+  },
+  {
+    "page": 32,
+    "xref": 372,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\372.png",
+    "width": 436,
+    "height": 650,
+    "placements": [
+      [
+        999.37158203125,
+        149.6832275390625,
+        1321.12158203125,
+        629.6832275390625
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 32,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\posters\\image-372.webp",
+    "width": 436,
+    "height": 650,
+    "xref": 372
+  },
+  {
+    "page": 32,
+    "xref": 373,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\373.png",
+    "width": 683,
+    "height": 1024,
+    "placements": [
+      [
+        517.50927734375,
+        81.0,
+        924.00927734375,
+        690.75
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 32,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\posters\\image-373.webp",
+    "width": 683,
+    "height": 1024,
+    "xref": 373
+  },
+  {
+    "page": 33,
+    "type": "composite page render",
+    "file": "public\\images\\projects\\portraits\\page-33.webp",
+    "width": 1872,
+    "height": 1053
+  },
+  {
+    "page": 33,
+    "xref": 378,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.1510009765625,
+        -279.4451904296875,
+        1481.5989990234375,
+        890.5546875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 33,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\portraits\\image-378.webp",
+    "width": 1012,
+    "height": 1800,
+    "xref": 378
+  },
+  {
+    "page": 33,
+    "xref": 379,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\379.png",
+    "width": 721,
+    "height": 960,
+    "placements": [
+      [
+        104.87063598632812,
+        193.7147216796875,
+        480.6206359863281,
+        693.9647216796875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 33,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\portraits\\image-379.webp",
+    "width": 721,
+    "height": 960,
+    "xref": 379
+  },
+  {
+    "page": 33,
+    "xref": 380,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\380.png",
+    "width": 721,
+    "height": 960,
+    "placements": [
+      [
+        543.9170532226562,
+        193.7147216796875,
+        919.6670532226562,
+        693.9647216796875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 33,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\portraits\\image-380.webp",
+    "width": 721,
+    "height": 960,
+    "xref": 380
+  },
+  {
+    "page": 33,
+    "xref": 381,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\381.png",
+    "width": 721,
+    "height": 960,
+    "placements": [
+      [
+        982.96337890625,
+        193.7147216796875,
+        1358.71337890625,
+        693.9647216796875
+      ]
+    ],
+    "duplicate": false
+  },
+  {
+    "page": 33,
+    "type": "optimized artwork",
+    "file": "public\\images\\projects\\portraits\\image-381.webp",
+    "width": 721,
+    "height": 960,
+    "xref": 381
+  },
+  {
+    "page": 34,
+    "xref": 388,
+    "type": "embedded original",
+    "file": "tmp\\pdfs\\originals\\45.png",
+    "width": 1152,
+    "height": 2048,
+    "placements": [
+      [
+        -598.1510009765625,
+        -279.4451904296875,
+        1481.5989990234375,
+        890.5546875
+      ]
+    ],
+    "duplicate": true
+  },
+  {
+    "page": 7,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\halwana\\hero.webp",
+    "width": 1920,
+    "height": 950,
+    "crop": [
+      0.07,
+      0.13,
+      0.98,
+      0.93
+    ]
+  },
+  {
+    "page": 8,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\tikida\\hero.webp",
+    "width": 1838,
+    "height": 543,
+    "crop": [
+      0.015,
+      0.055,
+      0.653,
+      0.39
+    ]
+  },
+  {
+    "page": 12,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\milkyway\\hero.webp",
+    "width": 1920,
+    "height": 923,
+    "crop": [
+      0.055,
+      0.17,
+      0.98,
+      0.96
+    ]
+  },
+  {
+    "page": 13,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\jumper\\hero.webp",
+    "width": 1096,
+    "height": 989,
+    "crop": [
+      0.61,
+      0.02,
+      0.99,
+      0.63
+    ]
+  },
+  {
+    "page": 16,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\graphora\\hero.webp",
+    "width": 1920,
+    "height": 869,
+    "crop": [
+      0.05,
+      0.2,
+      0.97,
+      0.94
+    ]
+  },
+  {
+    "page": 18,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\sombres-recits\\hero.webp",
+    "width": 594,
+    "height": 843,
+    "crop": [
+      0.38,
+      0.17,
+      0.586,
+      0.69
+    ]
+  },
+  {
+    "page": 19,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\studio-vision\\hero.webp",
+    "width": 980,
+    "height": 1329,
+    "crop": [
+      0.12,
+      0.1,
+      0.46,
+      0.92
+    ]
+  },
+  {
+    "page": 22,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\cartoon-character\\hero.webp",
+    "width": 1354,
+    "height": 1345,
+    "crop": [
+      0.49,
+      0.12,
+      0.96,
+      0.95
+    ]
+  },
+  {
+    "page": 23,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\winter-cabin\\hero.webp",
+    "width": 1326,
+    "height": 519,
+    "crop": [
+      0.02,
+      0.62,
+      0.48,
+      0.94
+    ]
+  },
+  {
+    "page": 25,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\winter-animation\\hero.webp",
+    "width": 1440,
+    "height": 794,
+    "crop": [
+      0,
+      0,
+      0.5,
+      0.49
+    ]
+  },
+  {
+    "page": 27,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\intruder\\hero.webp",
+    "width": 1355,
+    "height": 713,
+    "crop": [
+      0.51,
+      0.06,
+      0.98,
+      0.5
+    ]
+  },
+  {
+    "page": 30,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\safi-pottery\\hero.webp",
+    "width": 1440,
+    "height": 810,
+    "crop": [
+      0,
+      0.5,
+      0.5,
+      1
+    ]
+  },
+  {
+    "page": 32,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\posters\\hero.webp",
+    "width": 850,
+    "height": 1394,
+    "crop": [
+      0.355,
+      0.08,
+      0.65,
+      0.94
+    ]
+  },
+  {
+    "page": 33,
+    "type": "precise composite crop",
+    "file": "public\\images\\projects\\portraits\\hero.webp",
+    "width": 1920,
+    "height": 827,
+    "crop": [
+      0.045,
+      0.19,
+      0.96,
+      0.89
+    ]
+  },
+  {
+    "page": 3,
+    "type": "portrait",
+    "file": "public/images/hajar-salmi.webp",
+    "width": 630,
+    "height": 1000
+  }
+]

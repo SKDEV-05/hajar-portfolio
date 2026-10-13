@@ -1,0 +1,8 @@
+node_modules
+.next
+.tools
+tmp
+public
+package-lock.json
+src/data/assets.json
+docs/asset-manifest.json
