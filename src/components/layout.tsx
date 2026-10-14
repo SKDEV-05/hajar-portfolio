@@ -1,20 +1,17 @@
 import Link from 'next/link';
 import { copy, Locale } from '@/data/content';
 import { Controls } from './controls';
+import { Navigation } from './navigation';
 export function Header({ locale }: { locale: Locale }) {
   const c = copy[locale];
   return (
     <header className="site-header">
-      <Link className="wordmark" href={`/${locale}`} aria-label={`Hajar Salmi — ${c.home}`}>
-        hajar salmi<span className="mark">✳</span>
+      <Link className="nav-home" href={`/${locale}`} aria-label={c.home}>
+        <span className="mark" aria-hidden="true">
+          ✳
+        </span>
       </Link>
-      <nav aria-label={c.menu}>
-        <Link href={`/${locale}/work`}>{c.work}</Link>
-        <Link href={`/${locale}/about`}>{c.about}</Link>
-        <Link href={`/${locale}/contact`}>
-          {c.contact} <span className="nav-arrow">↗</span>
-        </Link>
-      </nav>
+      <Navigation locale={locale} />
       <Controls locale={locale} />
     </header>
   );
@@ -24,7 +21,10 @@ export function Footer({ locale }: { locale: Locale }) {
   return (
     <footer className="site-footer">
       <Link className="wordmark" href={`/${locale}`}>
-        hajar salmi<span className="mark">✳</span>
+        hajar salmi
+        <span className="mark" aria-hidden="true">
+          ✳
+        </span>
       </Link>
       <p>
         {c.location} <span className="dot">·</span> {c.rights}

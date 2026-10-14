@@ -6,10 +6,12 @@ export function Gallery({
   images,
   title,
   locale,
+  category = 0,
 }: {
   images: string[];
   title: string;
   locale: Locale;
+  category?: number;
 }) {
   const [selected, setSelected] = useState(0);
   const dialog = useRef<HTMLDialogElement>(null);
@@ -19,7 +21,7 @@ export function Gallery({
   }
   return (
     <>
-      <div className="art-gallery">
+      <div className={`art-gallery gallery-category-${category}`}>
         {images.map((src, i) => (
           <button
             data-reveal

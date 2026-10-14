@@ -134,7 +134,7 @@ export default async function ProjectPage({ params }: { params: Params }) {
             {c.artwork} / {images.length}
           </span>
         </div>
-        <Gallery images={images} title={title} locale={locale} />
+        <Gallery images={images} title={title} locale={locale} category={p.category} />
       </section>
       {related.length > 0 && (
         <section className="section">

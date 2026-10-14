@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import { Locale, copy, software } from '@/data/content';
 import { metadata, siteUrl } from '@/lib/metadata';
 import { ArtImage } from '@/components/art-image';
@@ -75,8 +76,11 @@ export default async function About({ params }: { params: Promise<{ locale: Loca
         <div className="software">
           <h2>{c.skills}</h2>
           <div className="software-list">
-            {software.map((s) => (
-              <span key={s}>{s}</span>
+            {software.map((s, i) => (
+              <span key={s}>
+                <Image src={`/images/software/${i}.png`} alt="" width={32} height={32} />
+                {s}
+              </span>
             ))}
           </div>
           <p className="muted">{c.skillsNote}</p>

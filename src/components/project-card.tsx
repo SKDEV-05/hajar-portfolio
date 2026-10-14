@@ -12,7 +12,7 @@ export function ProjectCard({
   index?: number;
 }) {
   return (
-    <article data-reveal className={`project-card project-${p.slug}`}>
+    <article data-reveal className={`project-card project-${p.slug} card-category-${p.category}`}>
       <Link
         href={`/${locale}/work/${p.slug}`}
         className="project-image"

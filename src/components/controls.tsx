@@ -9,7 +9,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
   return (
     <ThemeProvider
       attribute="data-theme"
-      defaultTheme="system"
+      defaultTheme="dark"
       enableSystem
       disableTransitionOnChange
     >
@@ -39,7 +39,18 @@ export function Controls({ locale }: { locale: Locale }) {
       </a>
       <Select value={mounted ? theme : ''} onValueChange={setTheme}>
         <SelectTrigger aria-label={c.theme} className="theme-trigger">
-          <SelectValue placeholder={c.theme} />
+          <span className="theme-label">
+            <SelectValue placeholder={c.theme} />
+          </span>
+          <span className="theme-symbol" aria-hidden="true">
+            {mounted && theme === 'dark' ? (
+              <Moon size={17} />
+            ) : mounted && theme === 'light' ? (
+              <Sun size={17} />
+            ) : (
+              <Monitor size={17} />
+            )}
+          </span>
         </SelectTrigger>
         <SelectContent className="theme-menu">
           <SelectItem value="light">

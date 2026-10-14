@@ -1,5 +1,6 @@
 import type { NextConfig } from 'next';
 const config: NextConfig = {
+  allowedDevOrigins: ['192.168.1.88'],
   images: { formats: ['image/avif', 'image/webp'] },
   async headers() {
     return [

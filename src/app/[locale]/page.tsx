@@ -1,12 +1,12 @@
 import Link from 'next/link';
-import { ArrowDown, ArrowUpRight, MoveUpRight } from 'lucide-react';
+import { ArrowUpRight, MoveUpRight } from 'lucide-react';
 import { Locale, copy, projects, categories, software } from '@/data/content';
 import { metadata } from '@/lib/metadata';
-import { Sculpture } from '@/components/sculpture';
+import { EditorialHero } from '@/components/editorial-hero';
 import { FeaturedProject } from '@/components/project-card';
 import { ContactBand } from '@/components/layout';
-import { ArtImage } from '@/components/art-image';
-import { PortraitMotion } from '@/components/scroll-motion';
+import Image from 'next/image';
+
 import { Button } from '@/components/ui/button';
 export async function generateMetadata({ params }: { params: Promise<{ locale: Locale }> }) {
   const { locale } = await params;
@@ -25,74 +25,7 @@ export default async function Home({ params }: { params: Promise<{ locale: Local
   const fr = locale === 'fr';
   return (
     <>
-      <section className="hero-v2">
-        <div className="hero-introline">
-          <span>
-            <i className="status-dot" />
-            {c.student}
-          </span>
-          <span>{c.location} / 2026—27</span>
-        </div>
-        <div className="hero-stage">
-          <div className="hero-type">
-            <p className="hero-salute">{fr ? 'Bonjour, je suis' : 'Hello, I’m'}</p>
-            <h1>
-              HAJAR
-              <br />
-              <span>
-                SALMI<span className="name-dot">✳</span>
-              </span>
-            </h1>
-            <p className="hero-position">
-              {fr ? 'Je transforme les idées' : 'I turn ideas'}
-              <br />
-              <em>{fr ? 'en histoires visuelles.' : 'into visual stories.'}</em>
-            </p>
-            <div className="hero-actions">
-              <Button asChild className="primary-link">
-                <a href="#selected">
-                  {c.selected}
-                  <ArrowDown size={16} />
-                </a>
-              </Button>
-              <Link className="quiet-link" href={`/${locale}/about`}>
-                {c.moreAbout}
-                <ArrowUpRight size={15} />
-              </Link>
-            </div>
-          </div>
-          <PortraitMotion>
-            <div className="portrait-outline" />
-            <div className="hero-portrait">
-              <ArtImage
-                src="/images/hajar-salmi.webp"
-                alt="Hajar Salmi"
-                priority
-                sizes="(max-width:700px) 65vw, 30vw"
-              />
-            </div>
-            <span className="portrait-label">
-              <span>✳</span>
-              {fr ? 'Un regard curieux.' : 'A curious eye.'}
-              <br />
-              {fr ? 'Une énergie créative.' : 'A creative spirit.'}
-            </span>
-            <div className="hero-coordinate">{c.location}</div>
-            <Sculpture />
-          </PortraitMotion>
-        </div>
-        <div className="hero-bottomline">
-          <p>
-            {fr
-              ? 'Identité visuelle, interfaces & mondes en mouvement.'
-              : 'Visual identities, interfaces & worlds in motion.'}
-          </p>
-          <a href="#story">
-            {c.scroll}
-            <ArrowDown size={15} />
-          </a>
-        </div>
-      </section>
+      <EditorialHero locale={locale} />
       <div className="discipline-ribbon" aria-hidden="true">
         <div>
           {[...categories, ...categories].map((cat, i) => (
@@ -216,8 +149,8 @@ export default async function Home({ params }: { params: Promise<{ locale: Local
         <div className="software-grid">
           {software.map((s, i) => (
             <div data-reveal key={s}>
-              <span className={`software-icon software-${i}`}>
-                {['Ai', 'Ps', 'Id', 'Xd', 'Ae', 'B3'][i]}
+              <span className="software-icon">
+                <Image src={`/images/software/${i}.png`} alt="" width={48} height={48} />
               </span>
               <span>{s}</span>
               <ArrowUpRight size={16} />
