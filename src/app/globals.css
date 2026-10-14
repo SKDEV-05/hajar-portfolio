@@ -1,6 +1,6 @@
 @import 'tailwindcss';
 @theme inline {
-  --font-sans: 'Manrope Variable', sans-serif;
+  --font-sans: var(--font-sans), 'Manrope Variable', sans-serif;
   --color-background: var(--bg);
   --color-foreground: var(--fg);
   --color-primary: var(--accent);
@@ -54,7 +54,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--fg);
-  font-family: 'Manrope Variable', sans-serif;
+  font-family: var(--font-sans), 'Manrope Variable', sans-serif;
   font-size: 15px;
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
@@ -140,6 +140,21 @@ button:focus-visible {
   background: var(--accent);
   transform-origin: left;
   z-index: 120;
+  will-change: transform;
+}
+@supports (animation-timeline: scroll()) {
+  .reading-progress {
+    animation: reading-progress-anim auto linear;
+    animation-timeline: scroll();
+  }
+  @keyframes reading-progress-anim {
+    from {
+      transform: scaleX(0);
+    }
+    to {
+      transform: scaleX(1);
+    }
+  }
 }
 .site-header {
   height: 88px;
@@ -481,6 +496,8 @@ button:focus-visible {
   gap: 40px;
   width: max-content;
   animation: ribbon 55s linear infinite;
+  will-change: transform;
+  contain: layout paint;
 }
 .discipline-ribbon span {
   font-size: 18px;
@@ -2051,7 +2068,6 @@ button:focus-visible {
   border-inline: 1px solid var(--line);
   padding: 0 12px;
   position: relative;
-  animation: portrait-arrive 1s ease both;
 }
 .editorial-portrait img {
   width: 100%;
@@ -2107,10 +2123,7 @@ button:focus-visible {
   gap: 12px;
 }
 .editorial-name > span {
-  animation: editorial-arrive 0.8s ease both;
-}
-.editorial-name > span:last-child {
-  animation-delay: 0.12s;
+  display: inline-block;
 }
 [data-theme='dark'] .editorial-portrait img {
   filter: grayscale(1) contrast(1.02) brightness(0.92);
@@ -2870,17 +2883,7 @@ body {
   }
 }
 .design-intro {
-  position: fixed;
-  inset: 0;
-  z-index: 100;
-  display: grid;
-  place-items: center;
-  background: var(--bg);
-  pointer-events: none;
-  animation: intro-exit 0.35s 0.85s ease-in forwards;
-}
-.design-intro[hidden] {
-  display: none;
+  display: none !important;
 }
 .intro-emblem {
   width: 180px;

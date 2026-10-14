@@ -1,9 +1,21 @@
 'use client';
-import { useRef, type PointerEvent } from 'react';
+import { useRef, useSyncExternalStore, type PointerEvent } from 'react';
 import { ArtImage } from './art-image';
+
+const subscribe = (callback: () => void) => {
+  if (typeof window === 'undefined') return () => {};
+  const mql = window.matchMedia('(hover: hover) and (pointer: fine)');
+  mql.addEventListener('change', callback);
+  return () => mql.removeEventListener('change', callback);
+};
+const getSnapshot = () =>
+  typeof window !== 'undefined' && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+const getServerSnapshot = () => false;
 
 export function InteractivePortrait() {
   const surface = useRef<HTMLDivElement>(null);
+  const canHover = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
+
   function move(event: PointerEvent<HTMLDivElement>) {
     const element = surface.current;
     if (!element || event.pointerType === 'touch') return;
@@ -16,18 +28,20 @@ export function InteractivePortrait() {
     element.style.setProperty('--tilt-y', `${(x - 0.5) * 9}deg`);
     element.dataset.active = 'true';
   }
+
   function reset() {
     if (!surface.current) return;
     surface.current.dataset.active = 'false';
     surface.current.style.setProperty('--tilt-x', '0deg');
     surface.current.style.setProperty('--tilt-y', '0deg');
   }
+
   return (
     <div
       className="portrait-interaction"
-      onPointerMove={move}
-      onPointerLeave={reset}
-      onPointerCancel={reset}
+      onPointerMove={canHover ? move : undefined}
+      onPointerLeave={canHover ? reset : undefined}
+      onPointerCancel={canHover ? reset : undefined}
     >
       <div className="portrait-depth" ref={surface}>
         <ArtImage
@@ -35,11 +49,17 @@ export function InteractivePortrait() {
           src="/images/hajar-salmi.webp"
           alt="Hajar Salmi"
           priority
-          sizes="(max-width:700px) 60vw, 28vw"
+          sizes="(max-width: 700px) 70vw, (max-width: 1100px) 45vw, 28vw"
         />
-        <div className="portrait-color-window" aria-hidden="true">
-          <ArtImage src="/images/hajar-salmi.webp" alt="" sizes="(max-width:700px) 60vw, 28vw" />
-        </div>
+        {canHover && (
+          <div className="portrait-color-window" aria-hidden="true">
+            <ArtImage
+              src="/images/hajar-salmi.webp"
+              alt=""
+              sizes="(max-width: 700px) 70vw, (max-width: 1100px) 45vw, 28vw"
+            />
+          </div>
+        )}
       </div>
     </div>
   );

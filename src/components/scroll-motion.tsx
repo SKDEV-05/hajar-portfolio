@@ -7,77 +7,70 @@ export function ScrollMotion() {
   useEffect(() => {
     let disposed = false;
     let cleanup = () => {};
-    Promise.all([import('gsap'), import('gsap/ScrollTrigger')])
-      .then(([{ gsap }, { ScrollTrigger }]) => {
-        if (disposed) return;
-        gsap.registerPlugin(ScrollTrigger);
-        const media = gsap.matchMedia();
-        media.add('(prefers-reduced-motion: no-preference)', () => {
+
+    if (typeof window === 'undefined') return;
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+    const init = () => {
+      Promise.all([import('gsap'), import('gsap/ScrollTrigger')])
+        .then(([{ gsap }, { ScrollTrigger }]) => {
+          if (disposed) return;
+          gsap.registerPlugin(ScrollTrigger);
+
           const context = gsap.context(() => {
-            if (document.querySelector('.editorial-name'))
-              gsap.from('.editorial-name > span', {
-                y: 35,
+            // Note: We intentionally do NOT hide or animate the above-the-fold hero elements
+            // (.editorial-name, .editorial-portrait) from opacity: 0, ensuring instantaneous FCP/LCP.
+            const seen = new WeakSet<Element>();
+            const elements = document.querySelectorAll<HTMLElement>('[data-reveal]');
+            elements.forEach((element) => {
+              if (seen.has(element)) return;
+              seen.add(element);
+              gsap.from(element, {
+                y: 28,
                 opacity: 0,
-                stagger: 0.12,
-                duration: 1,
-                ease: 'power3.out',
+                duration: 0.75,
+                ease: 'power2.out',
                 clearProps: 'all',
+                scrollTrigger: { trigger: element, start: 'top 92%', once: true },
               });
-            if (document.querySelector('.editorial-portrait'))
-              gsap.from('.editorial-portrait', {
-                y: 24,
-                opacity: 0,
-                duration: 1,
-                delay: 0.18,
-                clearProps: 'all',
-              });
-            gsap.to('.reading-progress', {
-              scaleX: 1,
-              ease: 'none',
-              scrollTrigger: { start: 0, end: 'max', scrub: 0.2 },
             });
-          });
-          const seen = new WeakSet<Element>();
-          const observe = () =>
-            context.add(() => {
-              document.querySelectorAll<HTMLElement>('[data-reveal]').forEach((element) => {
-                if (seen.has(element)) return;
-                seen.add(element);
-                gsap.from(element, {
-                  y: 30,
-                  opacity: 0,
-                  duration: 0.85,
-                  ease: 'power3.out',
-                  clearProps: 'all',
-                  scrollTrigger: { trigger: element, start: 'top 94%', once: true },
-                });
+
+            // If browser doesn't support CSS scroll timeline, fall back to GSAP for the reading bar
+            if (typeof CSS === 'undefined' || !CSS.supports || !CSS.supports('animation-timeline: scroll()')) {
+              gsap.to('.reading-progress', {
+                scaleX: 1,
+                ease: 'none',
+                scrollTrigger: { start: 0, end: 'max', scrub: 0.2 },
               });
-              ScrollTrigger.refresh();
-            });
-          observe();
-          const observer = new MutationObserver(observe);
-          const main = document.getElementById('main');
-          if (main) observer.observe(main, { childList: true, subtree: true });
-          const refresh = () => ScrollTrigger.refresh();
-          window.addEventListener('load', refresh);
-          document.fonts.ready.then(() => {
-            if (!disposed) refresh();
+            }
           });
-          return () => {
-            observer.disconnect();
-            window.removeEventListener('load', refresh);
-            context.revert();
-          };
+
+          cleanup = () => context.revert();
+        })
+        .catch(() => {
+          /* Fallback gracefully */
         });
-        cleanup = () => media.revert();
-      })
-      .catch(() => {
-        /* Content stays visible if the animation chunk cannot load. */
-      });
+    };
+
+    // Defer GSAP initialization so it runs after initial paint, FCP, LCP, and hydration
+    let idleId: number | undefined;
+    let timerId: ReturnType<typeof setTimeout> | undefined;
+
+    if ('requestIdleCallback' in window) {
+      idleId = (window as unknown as { requestIdleCallback: (cb: () => void, opts?: { timeout: number }) => number }).requestIdleCallback(init, { timeout: 1500 });
+    } else {
+      timerId = setTimeout(init, 400);
+    }
+
     return () => {
       disposed = true;
+      if (idleId && 'cancelIdleCallback' in window) {
+        (window as unknown as { cancelIdleCallback: (id: number) => void }).cancelIdleCallback(idleId);
+      }
+      if (timerId) clearTimeout(timerId);
       cleanup();
     };
   }, [path]);
-  return <div className="reading-progress" style={{ transform: 'scaleX(0)' }} aria-hidden="true" />;
+
+  return <div className="reading-progress" aria-hidden="true" />;
 }

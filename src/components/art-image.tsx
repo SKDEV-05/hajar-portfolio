@@ -25,6 +25,7 @@ export function ArtImage({
       height={size.height}
       sizes={sizes}
       priority={priority}
+      fetchPriority={priority ? 'high' : 'auto'}
       className={className}
     />
   );

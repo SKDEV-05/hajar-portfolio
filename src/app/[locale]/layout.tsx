@@ -4,8 +4,15 @@ import { locales, Locale, copy } from '@/data/content';
 import { Providers } from '@/components/controls';
 import { Header, Footer } from '@/components/layout';
 import { ScrollMotion } from '@/components/scroll-motion';
-import '@fontsource-variable/manrope';
+import localFont from 'next/font/local';
 import '../globals.css';
+
+const manrope = localFont({
+  src: '../fonts/manrope.woff2',
+  variable: '--font-sans',
+  display: 'swap',
+  weight: '200 800',
+});
 export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
@@ -28,8 +35,8 @@ export default async function Layout({
   if (!locales.includes(locale as Locale)) notFound();
   const l = locale as Locale;
   return (
-    <html lang={l} data-scroll-behavior="smooth" suppressHydrationWarning>
-      <body id="top">
+    <html lang={l} className={manrope.variable} data-scroll-behavior="smooth" suppressHydrationWarning>
+      <body id="top" className={manrope.className}>
         <Providers>
           <ScrollMotion />
           <a className="skip-link" href="#main">
